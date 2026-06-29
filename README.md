@@ -50,7 +50,7 @@ I am actively seeking **full‑time opportunities** where I can contribute to im
 
 ---
 
-<h2 style="margin-top: 45px; margin-bottom: 20px;">🛠️ My Tech Stack</h2>
+# 🛠️ My Tech Stack
 
 <h3 style="margin-top: 25px; margin-bottom: 10px;">💻 Languages</h3>
 <p>
@@ -128,7 +128,7 @@ I am actively seeking **full‑time opportunities** where I can contribute to im
 
 ---
 
-<h2 style="margin-top: 45px; margin-bottom: 18px;">💼 Professional Experience</h2>
+# 💼 Professional Experience
 
 **Junior Software Engineer Intern** – *Growexx* (Jan 2026 – May 2026)  
 *Core Engineering Team*
@@ -141,35 +141,29 @@ I am actively seeking **full‑time opportunities** where I can contribute to im
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Featured Projects
 
 ### ⚡ LightningChat
 
 Zero‑server, offline‑first encrypted messenger with a custom binary protocol, Protobuf API, and peer‑to‑peer calling.
 
 <p align="center">
-  <img src="path/to/lightningchat-screenshot.png" alt="LightningChat Dashboard" width="80%" />
-  <!-- Replace "path/to/lightningchat-screenshot.png" with your actual screenshot URL -->
+  <img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/e0184478-98c9-4444-9c19-7aa72a74a0ca" />
 </p>
-
----
 
 #### 🔥 Performance & Impact
 
-- **Impact:** Reduced signal/message frame sizes by **60%** with a custom varint‑based binary WebSocket relay, cutting server CPU load and enabling sub‑millisecond parsing. Slashed API response payloads by **40%** and server‑side deserialisation time by **5×** using Protocol Buffers. Achieved **100%** message delivery with zero server storage through an offline‑first IndexedDB engine.
-- **Features:** Custom binary WebSocket relay, Protobuf REST API, Signal‑grade E2EE (X3DH + Double Ratchet), offline‑first messaging (IndexedDB/Dexie), real‑time WebRTC voice/video calling, JWT authentication.
-- **Tech Stack:** Node.js, uWebSockets.js, React, Fastify, PostgreSQL, WebRTC, JWT, Tailwind CSS, Protocol Buffers, TweetNaCl, Dexie (IndexedDB).
-
----
+- **Impact :** Reduced signal/message frame sizes by **60%** with a custom varint‑based binary WebSocket relay, cutting server CPU load and enabling sub‑millisecond parsing. Slashed API response payloads by **40%** and server‑side deserialisation time by **5×** using Protocol Buffers. Achieved **100%** message delivery with zero server storage through an offline‑first IndexedDB engine.
+- **Features :** Custom binary WebSocket relay, Protobuf REST API, Signal‑grade E2EE (X3DH + Double Ratchet), offline‑first messaging (IndexedDB/Dexie), real‑time WebRTC voice/video calling, JWT authentication.
+- **Tech Stack :** `Node.js` , `uWebSockets.js` , `React` , `Fastify` , `PostgreSQL` , `WebRTC` , `JWT` , `Tailwind CSS` , `Protocol Buffers` , `TweetNaCl` , `Dexie (IndexedDB)`.
 
 #### 🔗 Quick Links
 
-- **[Source Code](https://github.com/Jainil979/lightningchat)** – *Replace with your actual repository link*
+- **🖥️ Frontend :** [Source Code](https://github.com/Jainil979/LightningChat)
+- **📡 REST API :** [Source Code](https://github.com/Jainil979/LightningChat-APIs)
+- **⚙️ WebSocket Server :** [Source Code](https://github.com/Jainil979/LightningChat-Websocket)
 
 ---
-
-> *“Built to push the boundaries of distributed systems – secure, fast, and truly offline‑first.”*
-
 
 <h2 style="margin-top: 45px; margin-bottom: 18px;">📊 GitHub Stats</h2>
 
@@ -182,6 +176,8 @@ Zero‑server, offline‑first encrypted messenger with a custom binary protocol
 ---
 
 *“I don’t just build software—I craft systems that are secure, scalable, and a pleasure to maintain.”*
+
+
 <!--
 **Jainil979/Jainil979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
