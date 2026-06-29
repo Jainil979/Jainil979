@@ -30,7 +30,7 @@
 
 ---
 
-<h2 style="margin-top: 15px; margin-bottom: 18px;">👨‍💻 About Me</h2>
+# 👨‍💻 About Me
 
 I am a **recent M.Sc. IT graduate** from Dhirubhai Ambani University, driven by a passion for building **secure, high‑performance systems** that solve real business problems. My engineering approach is grounded in **ownership**—I don’t just write code; I architect scalable solutions and see them through from design to deployment.
 
@@ -42,7 +42,7 @@ Academically, I have consistently ranked in the **top 5** of my M.Sc. IT cohort 
 
 **What I bring to your team:**  
 - A mindset of **ownership and accountability** for every product I touch.  
-- Deep expertise in **backend architecture, API design, and authentication** (OAuth, JWT, RBAC, E2EE).  
+- Deep expertise in **backend architecture, API design, and authentication**.  
 - A data‑driven approach to **optimise performance** and reduce costs.  
 - The ability to **bridge frontend and backend** seamlessly while keeping security at the core.
 
@@ -103,8 +103,6 @@ I am actively seeking **full‑time opportunities** where I can contribute to im
   <img src="https://img.shields.io/badge/Microsoft_OAuth-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="OAuth" style="margin: 6px 10px 6px 0;" />
   &nbsp;
   <img src="https://img.shields.io/badge/RBAC-FF6F00?style=for-the-badge&logo=security&logoColor=white" alt="RBAC" style="margin: 6px 10px 6px 0;" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/E2EE_(X3DH)-00C853?style=for-the-badge&logo=signal&logoColor=white" alt="E2EE" style="margin: 6px 10px 6px 0;" />
 </p>
 
 <h3 style="margin-top: 25px; margin-bottom: 10px;">🛠️ Testing & Tools</h3>
@@ -128,9 +126,9 @@ I am actively seeking **full‑time opportunities** where I can contribute to im
 
 ---
 
-# 💼 Professional Experience
+# 💼 My Professional Experience
 
-**Junior Software Engineer Intern** – *Growexx* (Jan 2026 – May 2026)  
+**Junior Software Engineer Intern** – **[Growexx](https://www.growexx.com/)** 🌐 (Jan 2026 – May 2026)  
 *Core Engineering Team*
 
 - Architected a **tenant‑aware Firestore data model** for a multi‑tenant Enterprise SaaS platform, enforcing strict data isolation and secure access across organisations.
@@ -165,7 +163,7 @@ Zero‑server, offline‑first encrypted messenger with a custom binary protocol
 
 ---
 
-<h2 style="margin-top: 45px; margin-bottom: 18px;">📊 GitHub Stats</h2>
+# 📊 GitHub Stats
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Jainil979&show_icons=true&theme=radical" alt="GitHub Stats" /> -->
