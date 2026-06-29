@@ -177,7 +177,7 @@ Zero‑server, offline‑first encrypted messenger with a custom binary protocol
 
 # 💡 My Development Philosophy
 
-```*“I don’t just build software – I build systems that I would trust with my own data.”*```
+> *“I don’t just build software – I build systems that I would trust with my own data.”*
 
 This principle guides everything I create. Whether it's an enterprise SaaS platform at Growexx or a personal project like LightningChat, I start with a simple question: *“Would I be comfortable using this every day?”*  
 
