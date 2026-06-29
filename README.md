@@ -141,23 +141,43 @@ I am actively seeking **full‑time opportunities** where I can contribute to im
 
 ---
 
-<h2 style="margin-top: 45px; margin-bottom: 18px;">📊 GitHub Stats</h2>
+## 🚀 Featured Project
+
+### ⚡ LightningChat
+
+Zero‑server, offline‑first encrypted messenger with a custom binary protocol, Protobuf API, and peer‑to‑peer calling.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jainil979&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jainil979&theme=radical" alt="GitHub Streak" />
+  <img src="path/to/lightningchat-screenshot.png" alt="LightningChat Dashboard" width="80%" />
+  <!-- Replace "path/to/lightningchat-screenshot.png" with your actual screenshot URL -->
 </p>
 
 ---
 
-<h2 style="margin-top: 45px; margin-bottom: 18px;">📫 Let's Connect</h2>
+#### 🔥 Performance & Impact
 
-I am always open to interesting conversations, collaboration, and new opportunities. If you're looking for an engineer who takes ownership, thinks in systems, and delivers secure, scalable solutions—let's talk.
+- **Impact:** Reduced signal/message frame sizes by **60%** with a custom varint‑based binary WebSocket relay, cutting server CPU load and enabling sub‑millisecond parsing. Slashed API response payloads by **40%** and server‑side deserialisation time by **5×** using Protocol Buffers. Achieved **100%** message delivery with zero server storage through an offline‑first IndexedDB engine.
+- **Features:** Custom binary WebSocket relay, Protobuf REST API, Signal‑grade E2EE (X3DH + Double Ratchet), offline‑first messaging (IndexedDB/Dexie), real‑time WebRTC voice/video calling, JWT authentication.
+- **Tech Stack:** Node.js, uWebSockets.js, React, Fastify, PostgreSQL, WebRTC, JWT, Tailwind CSS, Protocol Buffers, TweetNaCl, Dexie (IndexedDB).
 
-- 📧 **Email:** [jainiljainil39@gmail.com](mailto:jainiljainil39@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/jainil-soni-2871b7286](https://linkedin.com/in/jainil-soni-2871b7286)  
-- 🖥️ **GitHub:** [github.com/Jainil979](https://github.com/Jainil979)
+---
+
+#### 🔗 Quick Links
+
+- **[Source Code](https://github.com/Jainil979/lightningchat)** – *Replace with your actual repository link*
+
+---
+
+> *“Built to push the boundaries of distributed systems – secure, fast, and truly offline‑first.”*
+
+
+<h2 style="margin-top: 45px; margin-bottom: 18px;">📊 GitHub Stats</h2>
+
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Jainil979&show_icons=true&theme=radical" alt="GitHub Stats" /> -->
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jainil979&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
