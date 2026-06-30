@@ -141,7 +141,7 @@ I am actively seeking **full‑time opportunities** where I can contribute to im
 
 # 🚀 Featured Projects
 
-### ⚡ LightningChat
+### ⚡ LightningChat   &nbsp; : &nbsp; <a href="https://lightning-chat-gold.vercel.app/" style="font-size:12px;"> Live Link </a>
 
 Zero‑server, offline‑first encrypted messenger with a custom binary protocol, Protobuf API, and peer‑to‑peer calling.
 
